@@ -92,4 +92,4 @@ Shodan – A search engine for finding and mapping exposed internet-facing devic
 
 ## Projects
 - Home Detection Lab
-- Business Continuity Capstone
+- [Business Continuity Capstone](https://docs.google.com/document/d/1uV5Rnv3Ea74HssFfsx9-8NavchNzdJXHLHZDPHtf3OU/edit?usp=sharing)
