@@ -1,8 +1,6 @@
 # Hello, I'm Alex
 <a href="https://www.linkedin.com/in/alex-bonner-448b39117"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
-
 My mission is to protect organizations from evolving cyber threats through ethical, 
 resilient, and data-driven security practices that align with industry standards and 
 regulatory compliance.
